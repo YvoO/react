@@ -23,6 +23,24 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/src\/client.min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -47,6 +65,69 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/src\/js\/pages\/Archives.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/src\/js\/pages\/Archives-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/js\/pages\/Featured.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/src\/js\/pages\/Featured-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/js\/pages\/Home.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/src\/js\/pages\/Home-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/js\/pages\/Layout.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/src\/js\/pages\/Layout-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/js\/pages\/Settings.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/src\/js\/pages\/Settings-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/js\/pages\/Submit.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/src\/js\/pages\/Submit-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/src\/js\/vendor\/bootstrap-without-jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/src\/js\/vendor\/bootstrap-without-jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/webpack.config.js": {
 		"ft": 64,
 		"mi": 1,
@@ -63,7 +144,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 520519079,
-	"displayValue": "REACT",
+	"displayValue": "react",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-daenerys"
 	},

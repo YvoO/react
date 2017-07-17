@@ -6,23 +6,22 @@ import {
 	Link
 } from "react-router-dom";
 
+import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Submit from "./pages/Submit";
+import Footer from "./components/Footer";
 
 const app = document.getElementById('app');
 
 ReactDOM.render(
 	<Router>
 		<div>
-			<ul>
-				<li><Link to="/">Home</Link></li>
-				<li><Link to="/submit">Submit</Link></li>
-			</ul>
-
-			<hr />
+			<Navbar />
 
 			<Route exact path="/" component={Home} />
 			<Route path="/submit" component={Submit} />
+
+			<Footer />
 		</div>
 	</Router>
 , app);
